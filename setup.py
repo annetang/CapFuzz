@@ -35,6 +35,6 @@ setup(
 
     # Dependent packages (distributions)
     install_requires=[
-        "mitmproxy==3.0.2",
+        "mitmproxy==0.18.3",
     ],
 )
